@@ -1,0 +1,50 @@
+[
+    {
+      "albumId": 1,
+      "id": 1,
+      "nama": "PT. Anilo Adikarya Sentosa",
+      "url": "Perumahan Tanjung Mas Raya Blok A5 No.1, RT.2/RW.1, Tj. Bar., Kec. Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12530",
+      "thumbnailUrl": "https://via.placeholder.com/150/92c952",
+      "jurusan": "RPL"
+    },
+    {
+        "albumId": 1,
+        "id": 2,
+        "nama": "PT. Esport Indonesia",
+        "url": "Jl. MH Thamrin Kav CBD Pondok Aren, Bintaro, Kec. Pd. Aren, Kota Tangerang Selatan, Banten 15412",
+        "thumbnailUrl": "https://via.placeholder.com/150/92c952",
+        "jurusan": "RPL"
+    },
+    {
+        "albumId": 1,
+        "id": 3,
+        "nama": "PT. Adroady Solution",
+        "url": "Jalan Dr.Ide Anak Agung Gde Agung Kav. E 4.2, RT.5/RW.2, Kuningan, East Kuningan, Setiabudi, South Jakarta City, Jakarta 12950",
+        "thumbnailUrl": "https://via.placeholder.com/150/92c952",
+        "jurusan": "BDP"
+    },
+    {
+        "albumId": 1,
+        "id": 4,
+        "nama": "PT. Intek Solusi Media",
+        "url": "Jl. Kumbang, RT.2/RW.3, Pegadungan, Kec. Kalideres, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11830",
+        "thumbnailUrl": "https://via.placeholder.com/150/92c952",
+        "jurusan": "RPL"
+    },
+    {
+        "albumId": 1,
+        "id": 5,
+        "nama": "PT. Seven Sky",
+        "url": "Jl. Komp. Perkantoran Kebayoran Arcade 1 Blok C3 No.59, Pd. Jaya, Kec. Pd. Aren, Kota Tangerang Selatan, Banten 15220",
+        "thumbnailUrl": "https://via.placeholder.com/150/92c952",
+        "jurusan": "AKL"
+    },
+    {
+        "albumId": 1,
+        "id": 6,
+        "nama": "PT. Frisian flag",
+        "url": "Jl. Raya Bogor No.KM. 5, RT.5/RW.2, Gedong, Kec. Ps. Rebo, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13760",
+        "thumbnailUrl": "https://via.placeholder.com/150/92c952",
+        "jurusan": "OTP"
+    }
+]
