@@ -57,7 +57,7 @@ const styles = StyleSheet.create({
     inputNo:{
       height: 44,
       width: 273,
-      marginHorizontal: 42,
+      marginHorizontal: 40,
       borderColor: "grey",
       borderWidth: 1,
       borderRadius: 25,
